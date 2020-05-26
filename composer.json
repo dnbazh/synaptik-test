@@ -1,11 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "dnbazh/synaptik-test",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": [
-        "framework",
-        "laravel"
-    ],
+    "description": "The test task for Synaptik.",
+    "keywords": [],
     "license": "MIT",
     "require": {
         "php": "^7.2.5",
